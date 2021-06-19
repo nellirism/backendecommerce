@@ -1,0 +1,29 @@
+{
+  "name": "backendecommerce",
+  "version": "1.0.0",
+  "description": "Backendecommerce is a back-end application for an e-commerce site. Utilizing Express.js API and configuring it to use Sequelize to interact with a MYSQL database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "devStart": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellirism/backendecommerce.git"
+  },
+  "author": "nell-e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nellirism/backendecommerce/issues"
+  },
+  "homepage": "https://github.com/nellirism/backendecommerce#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.6.2"
+  }
+}
