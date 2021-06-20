@@ -4,11 +4,10 @@
 The goal of this project is to *build the back end for an e-commerce site. Take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.*
 
 1. [ backendecommerce Demo. ](#demo)
-2. [ Follow the Link. ](#urlz)
-3. [ User Story. ](#story)
-4. [ User Acceptance Criteria. ](#uac)
-5. [ Database Model. ](#mod)
-6. [ Association. ](#ass)
+2. [ User Story. ](#story)
+3. [ User Acceptance Criteria. ](#uac)
+4. [ Database Model. ](#mod)
+5. [ Association. ](#ass)
 6. [ Special Instructions. ](#how)
 
 <a name="demo"></a>
@@ -28,10 +27,6 @@ Walkthrough Video:
     - GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
 
     - POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
-
-
-<a name="urlz"></a>
-## Follow The Link
 
 <a name="story"></a>
 ## User Story
