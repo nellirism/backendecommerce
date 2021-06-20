@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/71202250/122661818-3bba2100-d143-11eb-
 
 https://user-images.githubusercontent.com/71202250/122661811-23e29d00-d143-11eb-93b7-4ab57783701f.mp4
 
-3. Start the Application's server. 
+3. Start the Application server. 
 
 https://user-images.githubusercontent.com/71202250/122661889-bdaa4a00-d143-11eb-8414-3015d3e81cff.mp4
 
