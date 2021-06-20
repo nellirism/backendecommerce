@@ -34,6 +34,8 @@ https://user-images.githubusercontent.com/71202250/122661811-23e29d00-d143-11eb-
 
 3. Start the Application's server. 
 
+https://user-images.githubusercontent.com/71202250/122661889-bdaa4a00-d143-11eb-8414-3015d3e81cff.mp4
+
 4. GET routes for all categories, all products, and all tags being tested in Insomnia Core.
 
 https://user-images.githubusercontent.com/71202250/122661115-e2022880-d13b-11eb-87a5-896bee27d491.mp4
