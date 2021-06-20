@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/71202250/122661115-e2022880-d13b-11eb-
 
 2. GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
 
+https://user-images.githubusercontent.com/71202250/122661241-f85cb400-d13c-11eb-9d0f-d2973ba1e9d9.mp4
 
 3. POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
 
