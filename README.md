@@ -26,6 +26,16 @@ https://user-images.githubusercontent.com/71202250/122661241-f85cb400-d13c-11eb-
 
 3. POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
 
+    CATEGORY (POST PUT and DELETE)
+        
+        https://user-images.githubusercontent.com/71202250/122661387-8e450e80-d13e-11eb-89c4-dfdc5830bcdf.mp4
+        
+    PRODUCT (POST PUT and DELETE)
+       
+       
+
+
+
 
 
     - How to create the schema from the MySQL shell.
