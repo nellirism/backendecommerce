@@ -20,35 +20,21 @@ The goal of this project is to *build the back end for an e-commerce site. Take 
 
 Walkthrough Videos:
 
-1. GET routes for all categories, all products, and all tags being tested in Insomnia Core.
+1. Create the schema from the MYSQL shell. 
+2. Seed the database from the command line. 
+3. Start the Application's server. 
+
+4. GET routes for all categories, all products, and all tags being tested in Insomnia Core.
 
 https://user-images.githubusercontent.com/71202250/122661115-e2022880-d13b-11eb-87a5-896bee27d491.mp4
 
-2. GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
+5. GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
 
 https://user-images.githubusercontent.com/71202250/122661241-f85cb400-d13c-11eb-9d0f-d2973ba1e9d9.mp4
 
-3. POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
-
-CATEGORY (POST PUT and DELETE)
+6. POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
 
 https://user-images.githubusercontent.com/71202250/122661387-8e450e80-d13e-11eb-89c4-dfdc5830bcdf.mp4
-       
-       
-
-
-
-
-
-    - How to create the schema from the MySQL shell.
-
-    - How to seed the database from the command line.
-
-    - How to start the application’s server.
-
-
-
-tags being tested in Insomnia Core.
 
 <a name="story"></a>
 ## User Story
