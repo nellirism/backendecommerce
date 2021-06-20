@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 # backendecommerce Version 1.06192021
 # Object-Relational Mapping (ORM) Challenge: E-commerce Back-end
 
@@ -21,7 +25,13 @@ The goal of this project is to *build the back end for an e-commerce site. Take 
 Walkthrough Videos:
 
 1. Create the schema from the MYSQL shell. 
-2. Seed the database from the command line. 
+
+https://user-images.githubusercontent.com/71202250/122661818-3bba2100-d143-11eb-851c-e4578e51d1a0.mp4
+
+2. Seed the database from the command line.
+
+https://user-images.githubusercontent.com/71202250/122661811-23e29d00-d143-11eb-93b7-4ab57783701f.mp4
+
 3. Start the Application's server. 
 
 4. GET routes for all categories, all products, and all tags being tested in Insomnia Core.
