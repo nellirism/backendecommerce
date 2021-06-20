@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # backendecommerce Version 1.06192021
 # Object-Relational Mapping (ORM) Challenge: E-commerce Back-end
 
@@ -52,10 +44,7 @@ https://user-images.githubusercontent.com/71202250/122661387-8e450e80-d13e-11eb-
 https://user-images.githubusercontent.com/71202250/122662189-dd427200-d145-11eb-95fb-9257999aa5fe.mp4
 
 
-
-
-
-
+https://user-images.githubusercontent.com/71202250/122662281-8c7f4900-d146-11eb-8cfd-25156707a248.mp4
 
 <a name="story"></a>
 ## User Story
